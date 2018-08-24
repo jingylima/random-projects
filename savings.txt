@@ -1,0 +1,15 @@
+how much will you be depositing per month?
+1
+how many years will you be doing this for?
+1
+and what's the interest rate, in percent?
+0
+your total at the end of 1 years will be $nan
+
+how much will you be depositing per month?
+1
+how many years will you be doing this for?
+1
+and what's the interest rate, in percent?
+100
+your total at the end of 1 years will be $19.3564
